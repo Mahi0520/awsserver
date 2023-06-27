@@ -4,5 +4,5 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       InstanceType: t2.micro
-      KeyName: mahimuamaikey
+      KeyName: mahimumabikey
       ImageId: ami-057752b3f1d6c4d6c
